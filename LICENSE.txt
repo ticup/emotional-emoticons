@@ -1,14 +1,3 @@
-Emotional-emoticons
-===================
-
-Classified facial expression emoticons database with polarity, used for the [emotional](https://github.com/ticup/emotional) sentiment analysis package.
-Taken from the [pattern.en library of CLIPS (University of Antwerp)](http://www.clips.ua.ac.be/pages/pattern-en), so all credits go to the original author [Tom De Smedt](http://organisms.be/).
-
-Feel free to request any additions.
-
-
-License (BSD)
--------------
 Copyright (c) 2011-2013 University of Antwerp, Belgium
 All rights reserved.
 
